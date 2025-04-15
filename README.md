@@ -1,7 +1,7 @@
 # ツールの使い方
 
 ## 送信方法
-```python main.py --to 宛先メールアドレス --message "本文メッセージ" --count 送信回数```
+```python main.py --to 宛先メールアドレス --message "本文メッセージ" --count 送信回数
 
 ## 主な機能
 
