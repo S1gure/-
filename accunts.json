@@ -1,0 +1,14 @@
+[
+  {
+    "email": "example1@gmail.com",
+    "password": "your_app_password_1",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587
+  },
+  {
+    "email": "example2@gmail.com",
+    "password": "your_app_password_2",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587
+  }
+]
